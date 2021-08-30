@@ -1,0 +1,31 @@
+{
+  "name": "douyin-video-get",
+  "version": "1.0.0",
+  "description": "抖音视频无水印下载 douyin video crack",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bower.liu@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowerliu/nodejs-douyin-video.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bowerliu/nodejs-douyin-video/issues"
+  },
+  "homepage": "https://github.com/bowerliu/nodejs-douyin-video#readme",
+  "keywords": [
+    "doyin",
+    "抖音",
+    "抖音视频下载"
+  ]
+}
