@@ -8,6 +8,9 @@
 
 如有问题 欢迎反馈 bower.liu@gmail.com
  
+# 免责声明
+
+本代码仅用于学习，下载后请勿用于商业用途。
 
 # 如何使用
 ## 安装引用
@@ -27,5 +30,5 @@ dy.getVideo("https://www.douyin.com/video/6974690128468004127?previous_page=main
     });
 
 ```
- 
- 
+## 安装引用
+线上测试地址 http://dy.bbs.tools
